@@ -12,25 +12,7 @@
     local Player = game.Players.LocalPlayer
 
     -- FunciÃ³n para verificar el nÃºmero de jugadores y expulsar si es necesario
-    local function checkPlayerCount()
-        if #game.Players:GetPlayers() > Settings.MaxPlayers then
-            print("Player count exceeded. Kicking player...")
-            Player:Kick(Settings.KickMessage)
-        end
-    end
-
-    -- Ejecutar la comprobaciÃ³n cuando inicia el script
-    checkPlayerCount()
-
-    -- Monitorear cuando se unen o salen jugadores
-    game.Players.PlayerAdded:Connect(function()
-        checkPlayerCount()
-    end)
-
-    game.Players.PlayerRemoving:Connect(function()
-        checkPlayerCount()
-    end)
-
+    
     --------------------------------------------------
     -- Resto de la lÃ³gica original del script empieza aquÃ­
     --------------------------------------------------
