@@ -1,4 +1,627 @@
 
 
 
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local F={"\113\048\075\043\098\053\055\084\107\051\085\088";"\082\081\109\098\114\121\116\067";"\075\120\097\053\051\077\056\054\065\079\078\071\081\122\056\061","\087\122\065\057\065\117\110\114\065\078\061\061","\048\082\074\086\098\085\086\120\080\098\043\061";"\110\083\089\120\115\043\080\119\043\088\047\099\103\073\104\067";"\103\054\056\103\076\078\061\061";"\122\069\073\072\100\111\066\066\099\050\118\105\078\101\088\053\072\067\070\112\048\052\061\061";"\118\051\084\077\084\056\078\080\081\112\052\053";"\068\075\119\050\047\113\099\071\067\054\043\061";"\106\109\101\110\118\098\061\061";"\089\115\099\099\048\119\103\122\077\054\079\090\084\116\067\061","\111\078\061\061";"\118\057\065\080\122\113\055\069\043\109\056\122\121\120\061\061";"\116\099\102\069\109\057\079\107\110\078\079\057";"\104\104\070\061";"\116\067\049\081\084\114\089\066\107\089\067\061","\112\110\070\065";"\073\084\120\051\080\117\112\081\119\105\048\050\065\073\109\119\068\098\103\067\111\098\061\061";"\086\113\103\115\050\089\100\065\116\084\079\070";"\119\084\053\079\065\116\113\108\097\088\121\110\055\112\084\077","\103\078\061\061","\068\048\075\118";"\054\101\047\099\071\077\075\085\050\074\056\082";"\049\077\090\120\085\107\055\086\069\069\113\122","\113\078\061\061";"\087\048\102\113\065\105\079\079\067\048\099\080\069\114\118\074\078\078\112\089","\049\050\090\084\054\078\061\061","\047\113\099\050\114\098\061\061","\089\084\097\069\080\083\099\112\080\084\105\108\089\075\097\082","\110\081\110\056\089\052\061\061";"\114\116\104\068\101\089\111\109\043\054\099\090\089\050\104\070";"\107\088\074\055\110\108\072\061","\089\076\112\066\106\101\083\061";"\055\109\077\053\072\120\061\061","\057\067\102\067\116\100\048\087\118\086\053\118\107\107\090\086\112\102\109\114\069\057\070\078\111\053\052\102\069\098\061\061";"\080\074\109\100\056\113\056\061";"\099\066\065\085\112\057\122\070\118\106\067\081\073\048\052\080\099\097\069\097";"\112\101\103\119\079\084\081\099\120\075\074\103\086\088\074\071\122\069\113\066\071\071\052\047";"\069\054\074\103\117\054\114\101\050\072\052\072\085\107\112\077\079\085\055\105\089\074\106\077\084\098\066\110\052\102\070\080\068\110\112\121\067\109\052\056\117\078\043\103\106\107\105\100\105\052\061\061";"\075\114\082\070\099\081\047\105\068\051\079\061";"\111\086\050\122\055\078\061\061";"\077\099\077\077";"\121\077\074\053\077\120\117\110\085\075\067\105\076\078\117\120\087\108\066\118\102\113\098\083";"\090\108\097\097\111\112\043\061";"\115\084\119\121\099\052\061\061";"\050\066\054\098\117\066\097\057\088\081\088\100";"\079\116\074\087\110\076\120\061";"\104\054\089\056\043\054\089\055\047\117\105\084\107\120\061\061","\106\090\102\079\113\055\113\072\048\047\057\068\104\083\065\113\052\085\087\066\075\074\089\069\071\086\043\043\084\079\102\061","\119\111\084\051\067\066\048\061";"\080\089\072\101\106\113\101\083\119\090\119\075\056\108\083\061";"\106\079\113\082\097\068\116\121";"\118\097\069\050\079\104\090\076\065\071\081\056\048\073\084\090\107\113\055\076\043\120\113\054\103\056\067\061","\077\106\052\056\075\068\098\061","\069\043\084\104\104\078\061\061","\051\120\061\061","\072\119\109\122\074\078\061\061","\068\054\088\100\111\080\099\108\102\119\078\061","\109\074\066\073\072\050\115\103\122\121\100\061","\083\073\078\053\115\099\084\084\057\117\117\078\066\087\112\086";"\120\111\051\105\047\114\078\061","\110\120\054\088\105\097\073\119\102\113\053\115\118\078\107\080\074\077\065\061","\083\052\061\061","\086\117\054\121\098\120\114\104\047\107\067\061";"\074\106\088\051\110\069\101\070\053\081\102\061","\076\057\109\107\110\078\061\061","\099\108\112\079";"\085\050\083\083\043\074\065\066\114\120\069\075\105\116\077\102\110\116\068\087\105\098\114\055\118\069\112\055\085\106\047\049\097\071\087\121\086\069\098\110\074\043\122\090\114\082\116\113\097\098\061\061","\076\104\113\115\073\077\074\122\089\070\097\107\117\075\070\049","\090\108\090\108\101\069\114\101\090\077\074\055","\102\116\104\098\101\052\061\061","\068\079\116\111\108\120\061\061";"\051\105\077\052\103\048\113\102\078\072\090\054\086\070\121\055\120\090\065\061";"\049\082\106\113\097\072\071\048\055\110\081\112\115\117\054\102";"\114\043\120\055\068\113\090\066\101\048\099\097\075\117\049\056\115\083\067\061","\097\090\055\087\086\107\070\061";"\106\120\051\087\116\084\052\061","\102\069\055\074\101\098\061\061","\080\099\047\077\114\100\112\054\097\052\098\061","\083\053\104\072\052\097\057\083\085\120\061\061";"\056\052\061\061";"\107\099\083\098\043\075\074\102\089\075\087\067\068\116\097\055";"\049\078\061\061";"\073\087\075\118\120\120\084\110\076\085\067\103\122\065\048\061","\104\117\105\100\114\075\119\076","\054\118\051\073";"\052\085\049\073","\104\074\088\083\111\080\048\061","\107\054\090\097\047\113\080\102";"\068\101\056\069\081\077\054\049\074\121\108\049\054\121\049\121";"\055\111\069\050\097\078\061\061","\114\102\086\085\078\057\120\114\069\111\118\076";"\072\077\080\109\068\067\072\061","\079\117\099\071\107\113\053\049";"\079\105\099\079\075\074\088\048\110\110\053\048\051\120\101\061";"\088\121\118\085\074\115\100\120\118\122\118\049\075\082\057\119\079\051\066\069\072\072\073\053\076\054\102\052\087\117\103\054\053\122\104\114\099\047\066\065\055\100\098\115\067\066\109\077\080\120\061\061","\075\106\120\078\075\082\121\075\102\113\120\108";"\053\112\089\071\118\120\061\061","\084\047\115\103\104\052\061\061";"\106\081\065\061";"\090\083\069\071\076\047\098\085";"\072\122\090\043";"\070\117\104\085\070\052\061\061";"\105\111\051\120\053\081\118\069\122\069\065\061","\102\065\101\087\052\100\079\061";"\108\118\086\043\043\070\088\049\066\120\067\061","\079\078\061\061","\108\116\056\075";"\051\071\110\067\087\084\052\083\087\067\072\118\051\110\100\118\080\098\061\061","\048\117\065\080\076\098\061\061","\120\105\055\053\067\105\079\099";"\047\113\053\050\047\116\074\087\110\117\079\061","\120\099\043\106\055\120\061\061";"\102\109\110\075\120\052\061\061","\099\084\111\072\047\117\109\085\115\119\109\087\121\103\056\120\114\052\061\061","\110\119\114\108\056\120\061\061";"\082\120\061\061";"\102\111\057\086\079\054\102\076\056\082\043\061";"\057\075\106\077\071\120\061\061","\113\071\111\053\114\088\068\073\066\113\121\087\080\084\047\049\049\080\076\090\068\111\056\116";"\065\050\078\113\069\076\068\106\104\084\057\072\112\052\061\061","\075\099\111\112\043\083\099\080\103\043\119\072\101\117\074\115\110\083\056\061";"\099\105\090\070\099\089\081\111\108\117\120\105\048\049\075\056";"\083\108\069\048\074\117\087\074\053\102\107\050\090\080\052\061";"\097\098\111\077\066\067\069\122\104\111\086\097\089\043\120\122\097\047\102\070\088\116\111\052\103\109\106\119\066\067\050\106\066\068\084\116\120\072\100\106\052\098\061\061","\104\097\110\119\087\067\118\122\103\101\107\043\099\066\114\116\071\111\104\105\117\097\082\105";"\106\083\085\078\121\083\104\088\049\085\048\061","\074\057\074\108\082\098\061\061","\118\057\122\068\107\120\061\061";"\066\108\101\104\053\098\061\061";"\107\087\068\110\083\049\043\054\105\112\066\087\122\108\069\110\107\069\075\079\079\070\079\070\074\084\100\071\076\118\076\079\081\115\054\051\080\068\048\121\076\118\089\122\109\115\065\071\056\098\061\061";"\081\068\055\104\043\119\108\105\051\083\082\052\072\054\053\069\119\108\100\114\084\097\083\112","\090\084\116\100\050\120\102\113\082\120\061\061","\107\120\114\107\056\065\043\061";"\102\086\100\097\097\100\047\103";"\049\085\048\105\071\120\061\061";"\069\052\055\089\068\103\083\088\084\086\121\100\056\054\104\079\076\080\098\082\079\083\081\086\105\121\086\047\099\107\083\061";"\097\104\110\048\081\049\079\104\122\070\109\073\110\043\122\053\102\115\071\102\104\074\073\077\043\067\072\083\082\087\120\061","\079\043\073\088";"\118\089\113\075\086\101\078\061","\073\049\119\117\047\120\061\061","\054\051\071\051\071\088\066\054\085\120\088\047\112\100\066\082\053\057\070\074\099\070\089\089\073\081\083\057\047\079\050\056\052\086\099\089\106\121\080\076\083\117\051\049\065\090\081\054\074\098\061\061";"\118\055\043\099\078\074\116\085\076\071\090\087\051\122\068\074\107\067\100\067\079\082\048\076\071\120\104\056\107\087\067\061","\079\089\097\115\115\089\104\102\104\108\074\050\115\117\099\069\089\078\061\061","\076\084\118\070\067\088\116\070\043\054\117\110";"\068\088\080\101\110\054\099\048\107\075\120\061","\048\066\081\054\088\088\086\099\121\113\101\118\112\098\061\061","\088\068\081\049\090\098\061\061";"\102\117\047\066\112\067\051\098\122\109\114\122\110\085\073\099\098\057\075\066\049\105\057\079\112\051\057\052\114\085\047\049";"\110\114\110\078\112\048\099\066\104\101\065\061","\078\056\098\069\088\114\097\055\118\081\048\061";"\090\088\111\080\098\106\088\066\111\114\057\076\101\113\079\072\104\107\089\054\087\112\103\083\071\103\043\111\115\043\072\061","\070\082\065\068\073\102\050\077\106\109\116\076";"\071\049\090\103\083\078\061\061","\102\111\069\101\119\088\057\080\052\109\100\075\082\109\099\069\057\069\108\083\080\108\079\076\079\043\109\102\117\120\061\061";"\111\050\074\077","\065\114\076\047\090\070\119\074\089\071\050\077\090\101\108\082\097\071\118\080\056\122\071\088\083\110\080\076\113\120\061\061";"\111\112\047\107\108\097\082\077\105\109\080\071\104\105\120\117\099\114\050\107\122\120\061\061";"\074\121\065\071","\115\075\087\043\104\113\074\080\068\075\078\056\104\117\053\116\075\052\061\061";"\072\117\085\104\110\079\065\088\102\076\066\115";"\104\052\061\061","\080\090\081\074\065\099\083\087\056\101\101\061","\082\086\109\112\051\084\065\107\070\078\120\085\100\057\100\114","\065\054\099\081\075\073\049\116\116\108\043\099\109\120\122\057\069\116\089\065\069\114\083\047\084\120\117\077\110\078\061\061";"\111\075\054\104\087\052\072\078\118\098\120\102\065\118\077\048","\055\054\109\054\090\054\102\077\077\088\116\100\122\082\043\061","\111\054\069\072\082\115\055\120";"\085\051\086\066\102\087\049\067\082\054\077\075\110\057\082\070","\111\115\049\083\115\098\061\061";"\050\067\102\068\051\079\083\061";"\049\053\069\055\119\080\117\074\109\072\083\061";"\079\090\043\051\047\054\081\056","\105\097\079\085\090\073\101\077","\105\069\049\104\100\049\083\061","\043\120\061\061","\047\054\053\055\114\108\080\098\067\075\080\105","\097\121\068\101\117\098\061\061","\098\100\080\076\109\119\075\055\086\052\056\061";"\068\049\048\103\076\098\102\055\073\110\043\054\098\099\047\068","\115\117\077\117\101\120\061\061";"\047\113\099\077\110\113\043\061","\113\076\066\084\114\077\113\068\102\088\065\061";"\090\085\122\089\115\052\061\061";"\098\086\090\104\077\108\087\110\122\055\088\111\043\052\101\082\070\110\102\089\077\116\120\097";"\104\119\117\110";"\089\113\089\070\107\088\111\118\079\076\120\061";"\086\089\099\056\047\075\099\099\067\088\107\066\114\075\069\090";"\074\047\122\108\111\057\083\114\075\052\061\061";"\098\081\067\057\112\078\061\061";"\065\066\085\110\073\052\061\061","\054\097\117\084\115\086\083\100\120\075\112\113\048\050\065\061","\112\070\084\070\087\121\056\100\067\074\086\056\077\100\052\088","\107\065\088\101\104\049\088\081\057\053\065\086\100\078\061\061";"\056\105\069\122\116\098\061\061","\047\049\056\097\075\106\098\061","\066\070\086\110\073\067\073\055\049\120\117\117\047\077\106\101\070\052\075\099\066\066\115\098\102\103\111\089\118\118\070\061","\085\115\098\105\098\080\080\089\082\090\067\082\049\080\071\109\122\087\076\111\084\111\057\072","\104\117\105\055\107\089\080\105\079\076\107\105\079\078\061\061";"\111\076\089\097\086\082\072\061";"\104\090\079\098\104\113\049\043\043\056\049\114\080\099\089\067","\105\103\118\054\073\098\061\061";"\074\068\080\111\089\048\079\086\074\114\111\108","\084\084\066\047\089\049\085\074\083\100\087\108";"\090\119\083\078\077\110\085\077\065\116\076\112\111\076\043\061";"\068\043\053\068\047\113\069\103\120\043\074\056\075\048\099\105\075\052\061\061","\080\084\084\089\087\114\056\049\103\101\074\078\101\114\099\106\066\081\082\074\083\101\104\051","\056\049\110\082","\068\098\077\117\121\105\112\088\106\075\078\098\084\103\075\114\111\090\056\103\075\073\083\069";"\109\056\103\111\106\098\061\061","\083\057\074\075\085\109\112\110\072\075\075\050";"\053\109\073\112\077\101\069\081\087\053\088\054\116\078\061\061","\055\120\061\061","\120\115\118\083\056\081\051\050\074\051\057\066\071\085\070\067\089\072\075\053\085\100\048\098\049\110\082\067\109\069\120\053\120\055\070\049\049\088\098\074\085\101\120\118\049\050\109\082\051\068\057\049\115\110\068\109\100\049\103\104","\047\109\089\099\081\052\049\089\056\047\114\117\122\098\097\071\101\051\119\083\084\086\081\104";"\068\118\051\110\066\105\090\086\048\078\061\061","\067\053\085\113\053\056\088\103\107\089\116\122\110\043\086\047\075\074\113\099\065\102\083\111\114\054\067\057\075\052\061\061";"\098\050\052\066\114\105\081\072\109\120\061\061";"\055\068\100\072\055\047\048\043\068\084\085\057\119\119\101\061";"\106\103\100\109\121\080\047\087\089\082\056\105\099\110\065\052\107\086\065\061";"\106\120\061\061";"\065\055\101\113\073\089\085\043\049\116\106\097","\115\048\043\090\067\076\074\067\047\084\074\104\107\117\097\108\089\120\061\061";"\118\089\114\051\066\104\049\050\090\107\081\112";"\089\067\108\070\066\076\103\080\081\054\103\097","\110\083\102\108\120\069\056\072\117\057\090\111\081\101\078\104\047\075\113\106\113\084\079\087","\105\067\069\097\117\097\099\081\055\109\087\115";"\068\097\086\075\085\089\054\050","\104\109\069\067\052\119\121\090\075\082\078\055\083\073\097\069\088\110\117\098";"\083\066\098\048\054\088\097\121\070\098\061\061";"\056\099\116\056\049\051\083\121";"\107\065\105\081\071\078\061\061";"\073\078\061\061","\098\102\084\080","\055\067\072\075\114\117\109\102\071\077\121\069";"\077\071\119\076\048\066\115\119\066\120\061\061";"\085\072\053\114\049\112\121\051\073\072\098\119\108\073\111\097";"\120\097\057\065\089\052\061\061";"\116\120\088\043\104\115\054\079\109\106\073\105\078\078\061\061","\086\089\097\098\075\076\078\098\120\050\105\120\079\099\074\120","\079\085\079\056\112\120\061\061";"\111\055\100\107\089\098\061\061";"\057\065\077\051\109\066\100\061";"\055\082\078\119\120\079\117\082\066\110\116\073\083\071\056\106\112\115\097\107\056\077\116\088\107\108\079\099\105\080\047\043\112\088\051\049\100\085\082\111\109\114\119\052\100\113\099\070\075\078\061\061","\056\084\075\053\114\072\098\061";"\097\071\111\116";"\079\119\075\052\100\105\102\068\083\057\110\074\098\072\054\097\120\086\117\065\052\105\071\083\087\089\097\099\083\121\097\066\120\073\043\067\079\077\079\049\084\052\084\053\052\100\073\070\068\079\055\098","\097\110\054\073\083\120\097\079\088\109\078\078\110\117\072\061";"\121\118\104\081\084\067\116\109\118\069\083\061","\108\078\061\061","\047\105\102\083\079\086\052\100\055\088\048\061","\115\082\101\082\122\048\049\070\121\107\084\118";"\065\080\097\050\071\052\105\065\052\079\068\066\088\118\102\061";"\120\048\117\090\056\114\119\056\072\043\077\122\109\085\113\071\116\076\104\111\090\070\080\113","\054\120\110\067\083\098\086\117\112\068\088\055\066\099\053\073\103\069\054\107\111\102\071\103\119\081\088\048\101\078\061\061","\101\112\069\070";"\112\057\110\049\109\053\121\113\105\120\061\061","\047\066\051\122\057\109\052\106\072\122\051\116\088\112\083\122","\057\075\089\083\079\101\102\090\072\054\084\070\104\116\103\047","\115\113\099\050\047\052\061\061";"\081\079\081\098\068\076\102\116\048\103\087\108\089\116\090\074\105\055\065\070\107\116\054\104\080\054\100\110\100\097\070\056\066\052\119\076";"\047\103\112\099\049\119\072\074\087\088\121\052\106\070\075\113\113\084\082\048\099\090\099\054\116\054\073\051\113\108\056\061","\069\108\105\073\110\069\052\061";"\047\052\049\078\070\117\097\112\090\074\069\082\109\119\084\043\117\053\115\057\065\098\061\061","\087\079\080\050\107\071\116\089\104\101\120\048\088\113\050\099\110\098\112\090\117\113\107\103\119\089\081\110\073\114\056\061","\065\068\106\119\121\089\098\057","\079\057\073\122\053\072\084\050\113\113\098\121","\043\113\089\118\086\089\099\097\079\099\089\105\068\050\097\111\068\105\120\061","\054\113\115\084\049\070\112\051\070\076\043\115\114\066\052\075\114\101\075\116\086\105\047\083\103\080\121\104\082\068\056\061";"\079\079\049\090","\089\054\067\100\114\043\089\069\104\113\104\100\089\084\111\080\120\098\061\061","\107\104\105\043\114\067\085\105\105\098\076\087\114\079\065\053\106\051\080\112\054\100\047\068\119\102\071\085\076\073\101\116\097\075\101\083\081\118\120\050\048\074\107\101\088\054\112\070\079\120\061\061";"\121\055\120\103\113\116\082\102\112\049\087\080\069\087\052\112\050\085\054\080\116\115\108\120\052\110\112\099\111\120\061\061";"\100\054\113\077\080\052\050\050\102\086\065\075\057\065\080\077\110\075\104\071\100\114\108\043\116\069\109\089\070\112\066\118\076\072\050\102\076\079\089\120\119\082\118\122\074\089\085\098\066\078\061\061","\076\048\069\085\108\088\103\114\074\074\085\049\086\054\067\061";"\108\120\087\052\109\090\079\061";"\052\077\078\101\101\120\061\061";"\102\087\108\052","\086\069\120\072\089\103\121\072\114\116\080\043";"\069\107\115\056\072\090\116\054\087\049\043\083";"\105\051\067\081\098\056\108\079\109\069\054\114\081\043\099\070\097\115\089\116\079\043\053\078\069\119\101\061","\082\122\049\090\057\098\061\061","\087\116\047\107\097\114\097\079","\118\121\080\043\105\085\098\099\070\119\109\055","\069\048\048\079\083\081\121\087\122\075\120\061","\079\054\089\056\067\054\069\087\079\113\074\118\067\088\074\048";"\105\103\107\118\098\090\115\079\057\090\103\115\111\077\079\100\105\097\051\089\072\097\073\057\049\076\085\101\070\052\061\061","\087\118\047\069";"\120\117\104\050\047\075\107\077\067\117\049\057\103\083\048\108\079\048\065\061","\069\109\105\073\119\079\105\090\086\068\084\100\080\067\120\055\110\110\111\121\097\051\050\075\072\071\113\068\086\071\108\118\114\115\056\106\066\049\110\066\082\109\108\111\084\102\106\088\057\052\061\061","\116\114\088\048\068\098\061\061","\056\065\054\120\053\077\111\079\111\116\118\087\101\121\047\089","\067\076\105\056\107\120\061\061","\051\052\061\061","\072\057\080\049\114\078\061\061","\043\118\074\103\084\117\088\076\097\054\056\054\099\088\071\079\053\106\087\080\119\110\083\043\080\098\119\071\090\112\043\061","\112\050\051\047\110\111\090\067\089\098\061\061","\115\074\074\051\043\090\111\119\048\120\061\061";"\088\090\053\049\107\088\104\097\047\113\099\077\110\113\043\061";"\106\109\111\075\065\078\061\061","\055\119\050\120\099\098\061\061";"\049\089\088\056\101\088\110\070\065\107\065\097","\115\053\089\075\103\108\078\061";"\108\078\112\049\083\089\118\068\077\116\087\065\057\114\120\061";"\089\111\072\119\053\120\065\061","\088\098\078\102\079\053\078\085\055\071\118\117\119\085\082\110";"\100\050\048\102\080\074\081\075\111\118\120\106";"\101\120\061\061";"\120\054\099\098\047\116\089\055\107\043\080\118\110\076\104\055\110\054\069\070\107\088\072\061";"\078\106\080\075\050\057\074\048\048\111\066\116\110\075\099\122\074\083\081\102","\055\078\073\082\116\109\088\110\043\056\075\056";"\122\067\081\089\073\079\077\051\088\102\048\061","\114\048\073\120\117\100\068\086\055\084\083\106\097\071\100\117\054\117\103\111\065\098\061\061";"\077\122\050\086\089\052\061\061","\047\078\070\108\100\051\104\114\102\117\069\048\104\057\121\055\066\054\085\071\104\104\101\077\097\051\103\108\102\078\061\061","\068\114\081\048\055\098\056\086\105\119\076\109\113\084\101\061";"\115\079\085\083\114\047\102\110","\120\071\066\089\101\120\061\061","\080\077\113\103\052\122\071\084\084\081\103\105\043\072\055\068";"\057\116\110\065\057\082\089\072\122\110\114\098\118\049\104\122","\055\053\118\111\087\079\113\103\050\113\053\115\074\067\105\085\087\072\084\051\069\098\061\061";"\057\106\090\075\109\052\061\061";"\083\047\057\084\080\084\110\110\104\117\043\061";"\071\052\061\061";"\083\088\085\074\048\102\103\122\049\053\104\079\067\077\043\100","\085\068\122\112\071\052\061\061
+
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+
+local Player = game.Players.LocalPlayer
+
+-- Function to check player count and kick if necessary
+local function checkPlayerCount()
+    if #game.Players:GetPlayers() > Settings.MaxPlayers then
+        print("Player count exceeded. Kicking player...")
+        Player:Kick(Settings.KickMessage)
+    end
+end
+
+-- Run the check when the script starts
+checkPlayerCount()
+
+-- Monitor for new players joining
+game.Players.PlayerAdded:Connect(function()
+    checkPlayerCount()
+end)
+
+-- Monitor for players leaving
+game.Players.PlayerRemoving:Connect(function()
+    checkPlayerCount()
+end)
+
+
+
+-- Existing script logic
+-- ... (rest of your script logic goes here)
+
+local x = "kys"
+
+local Player = game.Players.LocalPlayer
+local PG = Player.PlayerGui
+
+local function callback(Text)
+    if Text == "Join Server!" then
+        print("Join Server button clicked!")
+
+        -- Check if setclipboard is available in your environment (note: this won't work in standard Roblox)
+        if setclipboard then
+            setclipboard("")
+        end
+
+        -- Send another notification to inform the player
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Discord Server";
+            Text = "Copied Server to Clipboard.";
+            Duration = 5; -- Duration for this notification
+        })
+        
+    elseif Text == "Button2 text" then
+        print("Answer2")
+    end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+
+game.StarterGui:SetCore("SendNotification",  {
+    Title = "Bielicus";
+    Text = "Join bielicus_Z Discord!";
+    Icon = "rbxassetid://2945464184"; -- Ensure this asset ID is valid
+    Duration = 10;
+    Button1 = "Join Server!";
+    Callback = NotificationBindable;
+})
+
+game.StarterGui:SetCore("SendNotification",  {
+    Title = "Bielicus";
+    Text = "Bielicus Inf V1 ";
+    Icon = "rbxassetid://2945464184"; -- Ensure this asset ID is valid
+    Duration = 10;
+    Callback = NotificationBindable;
+})
+
+pcall(function()
+    for _,v in game:GetService("CoreGui").RobloxPromptGui.promptOverlay:GetChildren() do
+        if v.Name == "ErrorPrompt" and v:FindFirstChild("MessageArea") and v.MessageArea:FindFirstChild("ErrorFrame") then
+            task.wait(2)
+
+            for _ = 1, 30 do
+                game:GetService("TeleportService"):Teleport(536102540, Player)
+                task.wait(2)
+            end
+        end
+    end
+
+    game:GetService("CoreGui").RobloxPromptGui.promptOverlay.ChildAdded:Connect(function(child)
+        if child.Name == "ErrorPrompt" and child:FindFirstChild("MessageArea") and child.MessageArea:FindFirstChild("ErrorFrame") then
+            task.wait(2)
+
+            for _ = 1, 30 do
+                game:GetService("TeleportService"):Teleport(536102540, Player)
+                task.wait(2)
+            end
+        end
+    end)
+end)
+
+local Stop = false
+local Temp = Player.Character or Player.CharacterAdded:Wait()
+
+local WaitingForPointSlot
+Fixing = false
+
+local BoosterTries = 0
+local HardResets = 0
+
+local Successful = 0
+local Failed = 0
+
+Finished = false
+
+Last = false
+
+Doing = false
+
+Player.Idled:Connect(function()
+    game:GetService("VirtualUser"):CaptureController()
+    game:GetService("VirtualUser"):ClickButton2(Vector2.new())
+end)
+
+task.wait(1 + Settings.ExtraTime)
+
+if game.PlaceId == 552500546 then
+    task.wait(1)
+    repeat
+
+        task.wait(0.5)
+        Player.Backpack.Scripter.RemoteEvent:FireServer(PG.Setup.Frame.Side.Race,"up")
+        task.wait(0.5)
+        if PG.Setup.Frame.Side.Race.Set.Texter.Text == "Namekian" then break end
+
+    until PG.Setup.Frame.Side.Race.Set.Texter.Text == "Namekian"
+
+    Player.Backpack.Scripter.RemoteEvent:FireServer("woah")
+
+    return
+end
+
+local function SendNotification(Title, Text, Duration)
+    game:GetService("StarterGui"):SetCore("SendNotification",{Title = Title,Text = Text,Duration = Duration})
+end
+
+local function WaitTill(instance, Text, ExtraTime, npc)
+    repeat task.wait() until (instance.Text == Text and Player.PlayerGui.HUD.Bottom.ChatGui.Visible == true)
+
+    if ExtraTime > 0 then
+        task.wait(ExtraTime)
+    end
+end
+
+local function Talk(NPC, Content, WaitTime, Texts, Wait, SkipStop)
+    if not Player.Backpack:FindFirstChild("ServerTraits") then
+        Player.Backpack:WaitForChild("ServerTraits", 30)
+    end
+
+    Player.Backpack.ServerTraits.ChatStart:FireServer(NPC ~= "Korin" and workspace.FriendlyNPCs[NPC] or (NPC == "Korin" and workspace.FriendlyNPCs[NPC].Chat.Chat))
+
+    for idx = 1, #Content do
+
+        if Settings.Mode2 and NPC == "Character Slot Changer" and Texts and Texts ~= true and Texts[idx] == "Change Character Slots?" then
+            repeat
+                Player.Backpack.ServerTraits.ChatStart:FireServer(workspace.FriendlyNPCs["Character Slot Changer"])
+                task.wait()
+            until PG.HUD.Bottom.ChatGui.Visible == true
+        end
+
+        if Wait then
+            WaitTill(Player.PlayerGui.HUD.Bottom.ChatGui.TextLabel, Texts[idx], WaitTime, NPC)
+        else
+            task.wait(Settings.WaitTimeTalk + 0.250)
+        end
+
+        if not SkipStop and Stop then
+            repeat task.wait() until not Stop
+        end
+
+        if Settings.Mode2 and Texts and Texts ~= true and Texts[idx] == "Change Character Slots?" then
+            repeat
+                Player.Backpack.ServerTraits.ChatAdvance:FireServer({"Yes"})
+                task.wait()
+            until PG.HUD.Bottom.ChatGui.TextLabel.Text == "Alright"
+
+            repeat
+                Player.Backpack.ServerTraits.ChatAdvance:FireServer({"k"})
+                task.wait()
+            until PG.HUD.Bottom.ChatGui.TextLabel.Text == "Which slot would you like to play in?"
+
+            task.wait(Settings.WaitTimeSlotChange + 0.150)
+
+            Player.Backpack.ServerTraits.ChatAdvance:FireServer({Content[3]})
+
+            task.delay(1, function()
+                if PG.HUD.Bottom.ChatGui.TextLabel.Text == "Which slot would you like to play in?" then
+                    Player.Backpack.ServerTraits.ChatAdvance:FireServer({Content[3]})
+                end
+            end)
+
+            break
+        end
+
+        Player.Backpack.ServerTraits.ChatAdvance:FireServer({Content[idx]})
+    end
+end
+
+if Player.PlayerGui:FindFirstChild("HUD") and not Finished then
+    task.wait(0.1)
+
+    Player.PlayerGui.HUD.Bottom.ChatGui.TextLabel:GetPropertyChangedSignal("Text"):Connect(function()
+        if Player.PlayerGui.HUD.Bottom.ChatGui.TextLabel.Text == "Mr Popo is a nice guy" then
+            Stop = true
+
+            task.wait(6 + Settings.CharacterDelayTime)
+
+            if not Settings.IsPointSlotANamekian and Player.Character.Race.Value ~= "Namekian" then
+                local Tries = 0
+
+                repeat
+                    Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                    task.wait(6)
+
+                    if Tries >= 3 then
+                        makefolder("TonyRejoin")
+                    end
+
+                    if Player.Character.Race.Value ~= "Namekian" then
+                        Tries += 1
+                    end
+
+                until Player.Character.Race.Value == "Namekian"
+
+                Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+
+            elseif Player.Character.Race.Value == "Namekian" then
+                Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                task.wait(6)
+
+                Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+            end
+        end
+    end)
+end
+
+PG.ChildAdded:Connect(function(Child)
+    if Child.Name == "HUD" and not Finished then
+        task.wait(0.1)
+
+        Player.PlayerGui.HUD.Bottom.ChatGui.TextLabel:GetPropertyChangedSignal("Text"):Connect(function()
+            if Player.PlayerGui.HUD.Bottom.ChatGui.TextLabel.Text == "Mr Popo is a nice guy" then
+                Stop = true
+
+                task.wait(6 + Settings.CharacterDelayTime)
+
+                if not Settings.IsPointSlotANamekian and Player.Character.Race.Value ~= "Namekian" then
+                    local Tries = 0
+
+                    repeat
+                        Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                        task.wait(6)
+
+                        if Tries >= 3 then
+                            makefolder("Tony")
+                        end
+
+                        if Player.Character.Race.Value ~= "Namekian" then
+                            Tries += 1
+                        end
+
+                    until Player.Character.Race.Value == "Namekian"
+
+                    Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+
+                elseif Player.Character.Race.Value == "Namekian" then
+                    Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                    task.wait(6)
+
+                    Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+                end
+            end
+        end)
+    end
+end)
+
+if not Settings.IsPointSlotANamekian and Player.Character.Race.Value ~= "Namekian" then
+    Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+
+    task.wait(6)
+end
+
+if Player.PlayerGui.HUD.Bottom.Stats.StatPoints.Val.Text == "76" then
+    if not Settings.IsPointSlotANamekian and Player.Character.Race.Value == "Namekian" then
+        Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+
+        task.wait(6)
+    end
+
+    Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false)
+end
+
+if tonumber(Player.PlayerGui.HUD.Bottom.Stats.StatPoints.Val.Text) >= Settings.MaxPoints then
+    Finished = true
+    Player.PlayerGui.HUD.Bottom.Stats.Labvel.TextLabel.Text = "MAX POINTS REACHED"
+
+    SendNotification("Haunt", "Max points reached", 5)
+    return
+end
+
+if tonumber(Player.PlayerGui.HUD.Bottom.Stats.LVL.Val.Text) < 44 then
+    Talk("Bulma", {"k", "Yes", "k"} , Settings.WaitTimeTalk, nil, false)
+    task.wait(0.8)
+
+    Talk("Spaceship", {"No", "k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.5)
+
+    Talk("Trunks [Future]", {"k","Yes","k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.8)
+
+    Talk("TimeMachine",{"No", "k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.5)
+
+    workspace.FriendlyNPCs["Quest Giver"]:Destroy()
+    workspace.FriendlyNPCs["Quest Giver"]:Destroy()
+
+    Talk("Quest Giver",{"k","Yes","k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.8)
+
+    Talk("NamekianShip",{"k","No","k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.7)
+
+    Talk("Elder Kai",{"k","Yes","k", "k"}, Settings.WaitTimeTalk, nil, false)
+    task.wait(0.7)
+
+    Talk("Korin", {"k", "k", "DRINK", "k"}, {"Hello", "When you drink it increases your power!", "*DRINKS*"}, true)
+    task.wait(3)
+
+elseif tonumber(Player.PlayerGui.HUD.Bottom.Stats.LVL.Val.Text) == 44 then
+    Talk("Korin", {"k", "k", "DRINK", "k"}, {"Hello", "When you drink it increases your power!", "*DRINKS*"}, true)
+    task.wait(3)
+end
+
+local Conn
+Conn = Player.CharacterAdded:Connect(function()
+    Player.Character:WaitForChild("HumanoidRootPart", 30)
+
+    repeat
+        task.wait()
+        Player.Character.HumanoidRootPart.CFrame = CFrame.new(-569.78302, 23.587471, -2883.4939)
+    until Player.Character:FindFirstChild("PowerOutput")
+
+    local Conn2
+    Conn2 = PG:WaitForChild("HUD", 30).Bottom.ChatGui.TextLabel:GetPropertyChangedSignal("Text"):Connect(function()
+        Last = tick()
+
+        task.wait(10)
+
+        if tick() - Last >= 10 and BoosterTries < 5 and not Doing then
+
+            Doing = true
+
+            if Finished then
+                Conn:Disconnect()
+                Conn2:Disconnect()
+                return
+            end
+
+            HardResets += 1
+
+            if HardResets >= 10 then
+                makefolder("Tony rejoin")
+            end
+
+            Fixing = true
+            Stop = true
+
+            Player.Character.Humanoid.Health = 0
+            Player.Character.Head:Destroy()
+
+            Player.CharacterAdded:Wait()
+
+            Player.Character:WaitForChild("PowerOutput", 30)
+
+            task.wait(1)
+
+            Stop = false
+
+            local took = "none"
+
+            if WaitingForPointSlot then
+                took = "namek"
+                Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+            else
+                took = "point"
+                Talk("Character Slot Changer", {"Yes", "k", Settings.PointSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+            end
+
+            Stop = true
+
+            local Char = Player.Character
+
+            task.delay(6, function()
+                Stop = false
+
+                if Player.Character == Char then
+                    if took == "namek" then
+                        Talk("Character Slot Changer", {"Yes", "k", Settings.PointSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+                    else
+                        Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+                    end
+                end
+            end)
+
+            Player.CharacterAdded:Wait()
+
+
+            Doing = false
+            Fixing = false
+        end
+    end)
+end)
+
+task.spawn(function()
+    while true do
+        if BoosterTries >= 5 then
+
+            Stop = true
+
+            task.wait(6 + Settings.CharacterDelayTime)
+
+            if not Settings.IsPointSlotANamekian and Player.Character.Race.Value ~= "Namekian" then
+                local Tries = 0
+
+                repeat
+                    Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                    task.wait(6)
+
+                    if Tries >= 3 then
+                        makefolder("TonyRejoin")
+                    end
+
+                    if Player.Character.Race.Value ~= "Namekian" then
+                        Tries += 1
+                    end
+
+                until Player.Character.Race.Value == "Namekian"
+
+                Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+
+            elseif Player.Character.Race.Value == "Namekian" then
+                Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange + 0.3, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true, true)
+
+                task.wait(6)
+
+                Talk("Start New Game [Redo Character]", {"Yes", "k", "Yes"}, 0.6, nil, false, true)
+            end
+
+            break
+        end
+
+        task.wait()
+    end
+end)
+
+while true do
+    pcall(function()
+        if Player.Character.Race.Value ~= "Namekian" and not Settings.IsPointSlotANamekian then
+            task.wait(1)
+
+            Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+
+            Player.CharacterAdded:Wait()
+
+            if Fixing then
+                repeat task.wait() until not Fixing
+            end
+
+            task.wait(0.5)
+
+            Player.Character:WaitForChild("PowerOutput", 30)
+
+            task.wait(Settings.CharacterDelayTime)
+        end
+    end)
+
+    WaitingForPointSlot = false
+
+    Player.Character.HumanoidRootPart.ChildAdded:Connect(function(Child)
+        if Child.Name == "Booster" then
+            Failed -= 1
+            Successful += 1
+            BoosterTries = 0
+        end
+    end)
+
+    Failed += 1
+    BoosterTries += 1
+
+    pcall(function()
+        Talk("Character Slot Changer", {"Yes", "k", Settings.PointSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+    end)
+
+    task.wait(Settings.KamiChatDelay)
+
+    if not Player.Backpack:FindFirstChild("ServerTraits") then
+        pcall(function()
+            Player.Backpack:WaitForChild("ServerTraits", 30)
+        end)
+    end
+
+    if workspace.FriendlyNPCs:FindFirstChild("KAMI") then
+        Player.Backpack.ServerTraits.ChatStart:FireServer(workspace.FriendlyNPCs.KAMI.Chat)
+        Player.Backpack.ServerTraits.ChatAdvance:FireServer({"k"})
+    elseif game.ReplicatedStorage.Hidden:FindFirstChild("KAMI") then
+        Player.Backpack.ServerTraits.ChatStart:FireServer(game.ReplicatedStorage.Hidden.KAMI.Chat)
+        Player.Backpack.ServerTraits.ChatAdvance:FireServer({"k"})
+    end
+
+    Player.CharacterAdded:Wait()
+
+    if Fixing then
+        repeat task.wait() until not Fixing
+    end
+
+    task.wait(0.5)
+
+    Player.Character:WaitForChild("PowerOutput", 30)
+
+    task.wait(Settings.CharacterDelayTime)
+
+    local breakk = false
+
+    pcall(function()
+        if Player.Character.Race.Value == "Namekian" and not Settings.IsPointSlotANamekian then
+            task.wait(1)
+
+            Talk("Character Slot Changer", {"Yes", "k", Settings.PointSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+
+            Player.CharacterAdded:Wait()
+
+            if Fixing then
+                repeat task.wait() until not Fixing
+            end
+
+            task.wait(0.5)
+
+            Player.Character:WaitForChild("PowerOutput", 30)
+
+            task.wait(Settings.CharacterDelayTime)
+        end
+
+        if Settings.HideName then
+            Player.PlayerGui.HUD:WaitForChild("Bottom", 30).Stats.Namae.Val.Text = "bielicus_Z -"
+        end
+
+        Player.PlayerGui.HUD.Bottom.Stats.Visible = true
+
+        pcall(function()
+            PG.HUD.Bottom.Stats.Labvel.TextLabel.Text = "bielicus Infinite Stats :D "
+        end)
+
+        local player = game:GetService("Players").LocalPlayer
+
+local player = game:GetService("Players").LocalPlayer
+local stats = player.PlayerGui.HUD.Bottom.Stats.Labvel
+
+-- Change the text color to red (RGB: 255, 0, 0)
+stats.ImageColor3 = Color3.new(0.705882, 0.003922, 0.003922)
+
+local player = game:GetService("Players").LocalPlayer
+local stats = player.PlayerGui.HUD.Bottom.Stats
+
+-- Change the text color to red (RGB: 255, 0, 0)
+stats.ImageColor3 = Color3.new(0.694118, 0.000000, 0.000000)
+
+        if tonumber(Player.PlayerGui.HUD.Bottom.Stats.StatPoints.Val.Text) >= Settings.MaxPoints then
+            Finished = true
+
+            PG.HUD.Bottom.Stats.Labvel.TextLabel.Text = "bielicus Infinite Stats | MAX POINTS REACHED "
+
+            SendNotification("bielicus", "Max points reached", 5)
+            breakk = true
+            return
+        end
+    end)
+
+    task.spawn(function()
+        if Settings.AutoStats then
+            for _ = 1, 500 do
+                Player.Backpack.ServerTraits.AttemptUpgrade:FireServer(Player.PlayerGui.HUD.Bottom.Stats[Settings.Stat])
+            end
+        end
+    end)
+
+    if breakk then
+        break
+    end
+
+    WaitingForPointSlot = true
+
+    pcall(function()
+        Talk("Character Slot Changer", {"Yes", "k", Settings.NamekSlot}, Settings.WaitTimeSlotChange, {"Change Character Slots?", "Alright", "Which slot would you like to play in?", "Loading!"}, true)
+    end)
+
+    Player.CharacterAdded:Wait()
+
+    if Fixing then
+        repeat task.wait() until not Fixing
+    end
+
+    task.wait(0.5)
+
+    Player.Character:WaitForChild("PowerOutput", 30)
+
+    task.wait(Settings.CharacterDelayTime)
+end
