@@ -1,43 +1,20 @@
+local Settings = {
+    PointSlot = "Slot1"; -- Slot that will receive points
+    NamekSlot = "Slot2"; -- Namekian slot that gives points
+    Mode2 = true; -- (recommended) Forces more dialogs and speed can get much faster because you are able to use lower values in talk times, if you are having problems when talking to slot changer try this, some settings may behave differently with this on
+    WaitTimeSlotChange = 0.1; -- less = faster (Recommended 0.1 - 0.3) Wait time when talking to slot changer
+    WaitTimeTalk = 0.1; -- (reccommended 0.1 - 0.3 ) Wait time when talking to level NPCs
+    ExtraTime = 0; -- If you need more load time increase the value
+    KamiChatDelay = 0.27; -- Delay talking to kami (0.270 - 0.450 recommended)
+    CharacterDelayTime = 0.5; -- Time waited after character loads on top of another 0.5 seconds
+    MaxPoints = math.huge; -- math.huge means infinite
+    AutoStats = false; -- Auto upgrades a stat
+    HideName = true; -- Will hide your name in the stats UI
+    Stat = "Phys-Damage"; -- Health-Max,Ki-Max,Phys-Damage,Phys-Resist,Ki-Damage,Ki-Resist,Speed
+    IsPointSlotANamekian = false; -- If point slot isnt a namekian it will be faster to start and more secure, put to true if point slot is a namekian
+}
 
-
--- Seleccionar el método HTTP según el exploit disponible
-local http = (syn and syn.request) or (request) or (http and http.request) or (fluxus and fluxus.request)
-if not http then
-    warn("Este exploit no soporta http requests.")
-    return
-end
-
--- Obtener la IP pública del usuario
-local success, result = pcall(function()
-    return http({
-        Url = "https://api.ipify.org",
-        Method = "GET"
-    })
-end)
-
-if success and result and result.Body then
-    -- Asegurarse de que sea un string limpio
-    local userIp = tostring(result.Body):match("[^\r\n]+")
-
-    -- Lista blanca (whitelist) de IPs autorizadas
-    local ipWhitelist = {
-        "123.456.789.10",  -- reemplaza con IPs reales
-        "205.185.223.20",
-        "79.153.102.172"
-    }
-
-    -- Verificar si la IP está en la whitelist
-    local authorized = false
-    for _, goodIp in ipairs(ipWhitelist) do
-        if userIp == goodIp then
-            authorized = true
-            break
-        end
-    end
-
-    if authorized then
-        -- Ejecutar el script autorizado
-       if not game:IsLoaded() then
+if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
@@ -588,11 +565,4 @@ while true do
     Player.Character:WaitForChild("PowerOutput", 30)
 
     task.wait(Settings.CharacterDelayTime)
-end
-
-    else
-        warn("Tu IP no está autorizada para ejecutar este script.")
-    end
-else
-    warn("No se pudo obtener la IP del jugador.")
 end
