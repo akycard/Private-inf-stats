@@ -1,4 +1,43 @@
-if not game:IsLoaded() then
+
+
+-- Seleccionar el método HTTP según el exploit disponible
+local http = (syn and syn.request) or (request) or (http and http.request) or (fluxus and fluxus.request)
+if not http then
+    warn("Este exploit no soporta http requests.")
+    return
+end
+
+-- Obtener la IP pública del usuario
+local success, result = pcall(function()
+    return http({
+        Url = "https://api.ipify.org",
+        Method = "GET"
+    })
+end)
+
+if success and result and result.Body then
+    -- Asegurarse de que sea un string limpio
+    local userIp = tostring(result.Body):match("[^\r\n]+")
+
+    -- Lista blanca (whitelist) de IPs autorizadas
+    local ipWhitelist = {
+        "123.456.789.10",  -- reemplaza con IPs reales
+        "205.185.223.20",
+        "79.153.102.172"
+    }
+
+    -- Verificar si la IP está en la whitelist
+    local authorized = false
+    for _, goodIp in ipairs(ipWhitelist) do
+        if userIp == goodIp then
+            authorized = true
+            break
+        end
+    end
+
+    if authorized then
+        -- Ejecutar el script autorizado
+       if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
@@ -549,4 +588,11 @@ while true do
     Player.Character:WaitForChild("PowerOutput", 30)
 
     task.wait(Settings.CharacterDelayTime)
+end
+
+    else
+        warn("Tu IP no está autorizada para ejecutar este script.")
+    end
+else
+    warn("No se pudo obtener la IP del jugador.")
 end
